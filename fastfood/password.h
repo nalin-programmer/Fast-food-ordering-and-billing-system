@@ -10,9 +10,9 @@ password()
 again:
 	{
 	
-    char password[55],pass[55]="nalin123"; 
+    char password[55],pass[55]="user123"; 
   char username[20];
-  char user[20]="nalin";
+  char user[20]="user";
   printf("\t\t user:\t");
   fflush(stdin);
   gets(username);
